@@ -1,0 +1,21 @@
+[submodule "1-basics"]
+	path = 1-basics
+	url = git@github.com:ant0x64/rss-node-basics.git
+[submodule "2-file_manager"]
+	path = 2-file_manager
+	url = git@github.com:ant0x64/rss-node-file_manager.git
+[submodule "3-jest_testing"]
+	path = 3-jest_testing
+	url = git@github.com:ant0x64/rss-node-jest.git
+[submodule "4-crud_api"]
+	path = 4-crud_api
+	url = git@github.com:ant0x64/rss-node-crud_api.git
+[submodule "5-battleship"]
+	path = 5-battleship
+	url = git@github.com:ant0x64/rss-node-battleship.git
+[submodule "6-graphql"]
+	path = 6-graphql
+	url = git@github.com:ant0x64/rss-node-graphql_service.git
+[submodule "7-rest"]
+	path = 7-rest
+	url = git@github.com:ant0x64/rss-node-rest_service.git

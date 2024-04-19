@@ -24,8 +24,14 @@ Details of the course program: [Node.js course program](https://github.com/rolli
 
 ### Learning Journey and Acknowledgments
 
-The program provided a comprehensive overview of Node.js features, empowering me to tackle diverse tasks with confidence.
+The program provided a comprehensive overview of Node.js features, empowering to tackle diverse tasks with confidence.
 
-I'd especially like to highlight TypeScript, which fulfilled my need to organize data and brought back the fun of development.
+Throughout the course, I undertook various practical assignments that significantly contributed my development skills and knowledge. Notably, three projects exemplify the depth of my learning journey:
 
-Overall, I extend my heartfelt thanks to the organizers, mentors, and fellow participants for their support and guidance along the way. Regards.``
+1. [REST API Service](https://github.com/ant0x64/rss-node-rest_service) (final project): This project presented a compelling challenge implementing a RESTful API service based on the Nest.js framework. It provided a comprehensive platform to apply my proficiency in Node.js, TypeORM, RxJS, Docker, Swagger, and other technologies.
+   
+2. [WebSocket Battleship Server](https://github.com/ant0x64/rss-node-battleship): Building a WebSocket-powered Battleship server was an immersive experience, it provided me experience in implementing multiplayer game mechanics while ensuring seamless management of concurrent connections.
+   
+3. [CRUD API with Clustering](https://github.com/ant0x64/rss-node-crud_api): Developing a custom API provided me to delve into the advantages of using Node.js for backend development. It honed my skills in creating efficient and robust server-side applications, enhancing my proficiency in building scalable and high-performing systems.
+
+Overall, I extend my heartfelt thanks to the organizers, mentors, and fellow participants for their support and guidance along the way. Regards.
